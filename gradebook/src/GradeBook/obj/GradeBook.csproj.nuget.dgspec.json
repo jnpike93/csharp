@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\gradebook.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "projectName": "GradeBook",
-        "projectPath": "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\gradebook.csproj",
+        "projectName": "gradebook",
+        "projectPath": "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\gradebook.csproj",
         "packagesPath": "C:\\Users\\jakep\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
