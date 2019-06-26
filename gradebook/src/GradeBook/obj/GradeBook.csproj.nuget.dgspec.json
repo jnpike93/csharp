@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\GradeBook.csproj": {}
+    "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\GradeBook.csproj": {
+    "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\GradeBook.csproj",
+        "projectUniqueName": "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\GradeBook.csproj",
+        "projectPath": "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\jakep\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\csharp\\gradebook\\src\\gradebook\\obj\\",
+        "outputPath": "G:\\GitHub\\csharp\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "C:\\Users\\jakep\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -37,12 +37,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
